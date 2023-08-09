@@ -1,7 +1,7 @@
 ### Hi there i'm Mercy Chepkorir 👋
 
 <div align="Center">
-  <img(="https://giphy.com/gifs/w5FTwwiweGqDm" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/w5FTwwiweGqDm" width="600" height="300"/>
 </div>
 <!--
 **mercychepkorir/mercychepkorir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
